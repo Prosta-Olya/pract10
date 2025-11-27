@@ -1,0 +1,4 @@
+﻿  pract10.cpp
+C:\Users\Ольга\Desktop\pract10-main\pract10\pract10.cpp(106,17): warning C4244: инициализация: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+C:\Users\Ольга\Desktop\pract10-main\pract10\pract10.cpp(131,23): warning C4244: инициализация: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+  pract10.vcxproj -> C:\Users\Ольга\Desktop\pract10-main\pract10\x64\Debug\pract10.exe
